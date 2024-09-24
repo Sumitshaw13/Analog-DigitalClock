@@ -23,7 +23,7 @@ Clone the repository or download the Python script.
 2) Run the script:
    ```bash
 
-    python Analog_Digital_Clock.py
+    python tempCodeRunnerFile.py
 ## How to Use
 
 - **Select a Timezone**:  
